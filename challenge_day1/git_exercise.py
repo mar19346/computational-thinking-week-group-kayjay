@@ -7,5 +7,6 @@ def group_intro():
     print(rasmus_name.name())
     print(noel_name.name())
     print(cem_name.name())
+    print(kaz_name.name())
 
 group_intro()
