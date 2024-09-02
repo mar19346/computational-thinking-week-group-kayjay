@@ -1,4 +1,2 @@
 def name():
-    return "Marwan"
-
-print(name())
+    return 'Marwan'
