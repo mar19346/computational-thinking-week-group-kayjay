@@ -1,4 +1,4 @@
-import Leon_name, marwan_name, rasmus_name, noel_name, cem_name
+import Leon_name, marwan_name, rasmus_name, noel_name, cem_name, kaz_name
 
 def group_intro():
     print('This is Team KJ. We are:')
