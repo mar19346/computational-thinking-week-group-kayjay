@@ -1,9 +1,9 @@
-def fibonacci(a):
+def solution_station_1(a):
 
     if a == 1 or a == 2:
         return 1
 
     else:
-        return fibonacci(a-1) + fibonacci(a-2)
+        return solution_station_1(a-1) + solution_station_1(a-2)
     
 
