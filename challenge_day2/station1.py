@@ -1,5 +1,9 @@
-import math
-def solution_station_1(number)
-    result = math.sin(number)
+def fibonacci(a):
+
+    if a == 1 or a == 2:
+        return 1
+
+    else:
+        return fibonacci(a-1) + fibonacci(a-2)
     
-    return result
+
