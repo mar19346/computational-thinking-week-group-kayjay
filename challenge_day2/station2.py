@@ -1,6 +1,7 @@
 from datetime import datetime
 
 def solution_station_2(date):
+    date = datetime.strptime(date, '%Y-%m-%d').date()
     date.weekday()
     if date.weekday() == 0:
         return "月曜日"
