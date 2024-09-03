@@ -17,5 +17,3 @@ def solution_station_2(date):
         return "土曜日"
     elif date.weekday() == 6:
         return "日曜日"
-
-

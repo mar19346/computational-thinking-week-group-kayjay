@@ -3,3 +3,4 @@ def solution_station_3(num):
         return True
     else:
         return False
+    
